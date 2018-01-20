@@ -1,0 +1,3 @@
+[submodule "blxcpp"]
+	path = blxcpp
+	url = git@github.com:bramblex/blxcpp.git
